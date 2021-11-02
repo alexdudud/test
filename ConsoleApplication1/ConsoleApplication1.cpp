@@ -9,7 +9,7 @@ int main()
 	int a, b, temp;
 
 	cout << "Tapez la valeur de a : "; cin >> a;
-	cout << "Tapez la valeur de b : "; cin >> b;
+	cout << "Tapez la valeur de b : "; cin >> a;
 
 	temp = a;
 	a = b;
